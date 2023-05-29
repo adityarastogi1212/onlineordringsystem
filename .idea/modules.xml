@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApiGateway/ApiGateway/ApiGateway.iml" filepath="$PROJECT_DIR$/ApiGateway/ApiGateway/ApiGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigServer/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/ConfigServer/ConfigServer/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Login/Login.iml" filepath="$PROJECT_DIR$/Login/Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOS Backend App.iml" filepath="$PROJECT_DIR$/.idea/OOS Backend App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HotelService/PaymentService/PaymentService.iml" filepath="$PROJECT_DIR$/HotelService/PaymentService/PaymentService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceRegistry/ServiceRegistry/ServiceRegistry.iml" filepath="$PROJECT_DIR$/ServiceRegistry/ServiceRegistry/ServiceRegistry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RatingService/StatusService/StatusService.iml" filepath="$PROJECT_DIR$/RatingService/StatusService/StatusService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserService/UserService.iml" filepath="$PROJECT_DIR$/UserService/UserService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-domains/base-domains/base-domains.iml" filepath="$PROJECT_DIR$/base-domains/base-domains/base-domains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email-service/email-service/email-service.iml" filepath="$PROJECT_DIR$/email-service/email-service/email-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-service/order-service/order-service.iml" filepath="$PROJECT_DIR$/order-service/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock-service/stock-service/stock-service.iml" filepath="$PROJECT_DIR$/stock-service/stock-service/stock-service.iml" />
+    </modules>
+  </component>
+</project>
